@@ -1,0 +1,22 @@
+{
+  "name": "SlidingSegmentedControl",
+  "version": "0.1.0",
+  "summary": "A short description of SlidingSegmentedControl.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/DimaNakhratiants/SlidingSegmentedControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DimaNakhratiants": "dirmidante@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/DimaNakhratiants/SlidingSegmentedControl.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "SlidingSegmentedControl/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - SlidingSegmentedControl (0.1.0)
+
+DEPENDENCIES:
+  - SlidingSegmentedControl (from `../`)
+
+EXTERNAL SOURCES:
+  SlidingSegmentedControl:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SlidingSegmentedControl: b2d2a134a8ea441f49865b0ea35196c0d24dc9a5
+
+PODFILE CHECKSUM: 73ae414b714cc596d643fb3306f755ddd84f5373
+
+COCOAPODS: 1.3.1

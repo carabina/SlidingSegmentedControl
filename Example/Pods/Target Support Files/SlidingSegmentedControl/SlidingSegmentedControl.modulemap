@@ -1,0 +1,6 @@
+framework module SlidingSegmentedControl {
+  umbrella header "SlidingSegmentedControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
