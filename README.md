@@ -9,8 +9,7 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-![Alt Text](https://psv4.userapi.com/c834600/u186161035/docs/d1/7f3b1b1ebf79/SlidingSegmentedControl.gif)
-
+<a href=""><img src="https://psv4.userapi.com/c834600/u186161035/docs/d1/7f3b1b1ebf79/SlidingSegmentedControl.gif" title="gif"/></a>
 
 
 ## Requirements
