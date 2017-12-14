@@ -45,7 +45,7 @@
 		AB4331BCBF6908550642A75B /* Pods-SlidingSegmentedControl_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SlidingSegmentedControl_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-SlidingSegmentedControl_Example/Pods-SlidingSegmentedControl_Example.release.xcconfig"; sourceTree = "<group>"; };
 		B0A1F13339653BBB2F9BF936 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		D0073C36951F6D9B2A3D96AC /* Pods_SlidingSegmentedControl_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SlidingSegmentedControl_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D9FEE0257AD3B65FA95E4D7F /* SlidingSegmentedControl.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SlidingSegmentedControl.podspec; path = ../SlidingSegmentedControl.podspec; sourceTree = "<group>"; };
+		D9FEE0257AD3B65FA95E4D7F /* SlidingMultiselectionSegmentedControl.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SlidingMultiselectionSegmentedControl.podspec; path = ../SlidingMultiselectionSegmentedControl.podspec; sourceTree = "<group>"; };
 		FF6EFEA48BFC5699758D88A2 /* Pods-SlidingSegmentedControl_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SlidingSegmentedControl_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-SlidingSegmentedControl_Tests/Pods-SlidingSegmentedControl_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -141,7 +141,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				D9FEE0257AD3B65FA95E4D7F /* SlidingSegmentedControl.podspec */,
+				D9FEE0257AD3B65FA95E4D7F /* SlidingMultiselectionSegmentedControl.podspec */,
 				62AA45F9E110586589E42C9E /* README.md */,
 				B0A1F13339653BBB2F9BF936 /* LICENSE */,
 			);
